@@ -1,7 +1,7 @@
 ![BitcoinKit: Let's Play with Bitcoin in Swift!](https://user-images.githubusercontent.com/23519083/43385824-be9ac974-941c-11e8-835c-39188c4ed7c9.jpg)
 
 ### Anouncement
-BitcoinCashKit has been merged into [BitcoinKit](https://github.com/yenom/BitcoinKit), the original repository!
+BitcoinCashKit has been merged into [BitcoinKit](https://github.com/yenom/BitcoinKit), the original repository!  
 We have stopped maintaining this repository, and we gonna develop BitcoinKit.
 
 ### Welcome to BitcoinCashKit
